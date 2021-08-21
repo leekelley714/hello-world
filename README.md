@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository.
 
 My name is Lee, and I am currently learning Python. 
 
